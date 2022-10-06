@@ -1,0 +1,16 @@
+package varaibles;
+
+public class Main {
+	public static void main(String[] args) {
+		int ogrenciiSayisi = 10;
+		System.out.println("Öğrenci sayım : "+ ogrenciiSayisi);
+		System.out.println("Öğrenci sayım : "+ ogrenciiSayisi);
+		System.out.println("Öğrenci sayım : "+ ogrenciiSayisi);
+		System.out.println("Öğrenci sayım : "+ ogrenciiSayisi);
+		
+		
+		
+		
+	}
+
+}
